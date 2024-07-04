@@ -1,4 +1,4 @@
 # CPP-demo
 this is my frist repository
 
-Author yash parmar o
+Author yash parmar (bca ai/da)
